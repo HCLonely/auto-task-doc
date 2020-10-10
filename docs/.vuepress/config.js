@@ -38,7 +38,8 @@ module.exports = {
           { text: '首页', link: '/' },
           { text: '指南', link: '/guide/' },
           { text: '常见问题', link: '/FAQ/' },
-          { text: '反馈', link: '/feedback/' }
+          { text: '反馈', link: '/feedback/' },
+          { text: '参与开发', link: '/dev/' }
         ]
       },
       '/en/': {
@@ -51,7 +52,8 @@ module.exports = {
           { text: 'Home', link: '/en/' },
           { text: 'Guide', link: '/en/guide/' },
           { text: 'Q&A', link: '/en/FAQ/' },
-          { text: 'Feedback', link: '/en/feedback/' }
+          { text: 'Feedback', link: '/en/feedback/' },
+          { text: 'Contribute', link: '/dev/' }
         ]
       }
     }
