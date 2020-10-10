@@ -37,7 +37,6 @@ module.exports = {
         nav: [
           { text: '首页', link: '/' },
           { text: '指南', link: '/guide/' },
-          { text: '配置', link: '/config/' },
           { text: '常见问题', link: '/FAQ/' },
           { text: '反馈', link: '/feedback/' }
         ]
@@ -51,7 +50,6 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/en/' },
           { text: 'Guide', link: '/en/guide/' },
-          { text: 'Config', link: '/en/config/' },
           { text: 'Q&A', link: '/en/FAQ/' },
           { text: 'Feedback', link: '/en/feedback/' }
         ]
