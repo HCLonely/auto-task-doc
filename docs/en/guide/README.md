@@ -98,6 +98,15 @@ The following functions may not be enabled by default, please refer to [Settings
 - Repost Vk wall (Cancellation is not supported)
 - Visit links
 
+### takekey
+
+- Check if you are logged in (automatically jump to the login page if not logged in)
+- Remaining Key detection, if the donation of Key ends, a pop-up will remind you
+- Steam
+  - Join group & leave group
+- Join & leave Vk group
+- Visit links
+
 ### gleam.io
 
 - Remaining Key detection, if the donation of Key ends, a pop-up will remind you
