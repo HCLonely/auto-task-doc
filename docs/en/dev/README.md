@@ -8,9 +8,11 @@ lang: en-US
 ## How to participate in development
 
 1. Fork this repo
-2. Add feature/fix bug
-3. Run `npm test` without error
-4. Submit PR
+2. Clone the repo
+3. `npm install` to install dependencies
+4. Add feature/fix bug
+5. Run `npm test` without error
+6. Submit PR
 
 ## Style
 
