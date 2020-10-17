@@ -7,6 +7,14 @@ lang: en-US
 
 ## V3.2
 
+### V3.2.2-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.2)
+
+- Add website: keyhub. ([#17](https://github.com/HCLonely/auto-task/issues/17))
+- Code optimization.
+- Fix the bug that some setting items do not take effect.
+
 ### V3.2.1-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.1)

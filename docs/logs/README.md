@@ -5,6 +5,14 @@ lang: zh-CN
 
 ## V3.2
 
+### V3.2.2-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.2)
+
+- 添加 key-hub.eu 网站支持 ([#17](https://github.com/HCLonely/auto-task/issues/17))
+- 代码优化
+- 修复某些设置项不生效的 bug
+
 ### V3.2.1-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.1)
