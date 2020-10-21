@@ -64,6 +64,11 @@ auto-task # Root directory
    |  ├── time.html # Countdown page (Chinese)
    |  └── time_en.html # Countdown page (English)
    ├── requirejs # Dependent js folder
+   |  ├── i18n.js # i18n related
+   |  ├── i18n.min.js # Automatically generated, please do not modify!
+   |  ├── lang # Script i18n language directory
+   |  |  ├── zh-CN.json # Chinese
+   |  |  ├── en-US.json # English
    |  ├── js.cookie.min.js
    |  ├── jquery.min.js
    |  ├── effect.min.js
@@ -80,9 +85,6 @@ auto-task # Root directory
    |  ├── header.js # UserScript header information
    |  ├── i18n.js # i18n related
    |  ├── main.js # Function integration
-   |  ├── lang # Script i18n language directory
-   |  |  ├── zh-CN.json # Chinese
-   |  |  ├── en-US.json # English
    |  ├── function # Function directory
    |  |  ├── getAuth.js # Obtain Discord auth
    |  |  ├── httpRequest.js # http request

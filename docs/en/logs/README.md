@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.2
 
+### V3.2.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.3)
+
+- i18n optimization.
+- Code optimization.
+
 ### V3.2.2-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.2)

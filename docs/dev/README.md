@@ -62,6 +62,11 @@ auto-task # 根目录
    |  ├── time.html # 倒计时页面(中文)
    |  └── time_en.html # 倒计时页面(英文)
    ├── requirejs # 依赖js文件夹
+   |  ├── i18n.js # i18n相关
+   |  ├── i18n.min.js # 自动生成，请勿修改！
+   |  ├── lang # 脚本i18n语言目录
+   |  |  ├── zh-CN.json # 中文
+   |  |  ├── en-US.json # 英文
    |  ├── js.cookie.min.js
    |  ├── jquery.min.js
    |  ├── effect.min.js
@@ -78,9 +83,6 @@ auto-task # 根目录
    |  ├── header.js # UserScript头部信息
    |  ├── i18n.js # i18n相关
    |  ├── main.js # 功能函数整合
-   |  ├── lang # 脚本i18n语言目录
-   |  |  ├── zh-CN.json # 中文
-   |  |  ├── en-US.json # 英文
    |  ├── function # 功能函数目录
    |  |  ├── getAuth.js # 获取Discord凭证
    |  |  ├── httpRequest.js # http请求函数

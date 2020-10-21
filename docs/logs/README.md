@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.2
 
+### V3.2.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.3)
+
+- i18n 优化
+- 代码优化
+
 ### V3.2.2-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.2)
