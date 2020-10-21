@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.2
 
+### V3.2.4-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.4)
+
+- gleam 添加 discord 任务支持
+- 修复 gleam 访问链接出错的 bug
+
 ### V3.2.3-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.3)

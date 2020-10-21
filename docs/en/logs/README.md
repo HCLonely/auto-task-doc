@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.2
 
+### V3.2.4-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.4)
+
+- Adds discord task support on gleam
+- Fix the bug of visit link error on gleam
+
 ### V3.2.3-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.3)
