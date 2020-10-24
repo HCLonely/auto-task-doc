@@ -107,6 +107,15 @@ The following functions may not be enabled by default, please refer to [Settings
 - Join & leave Vk group
 - Visit links
 
+### keyhub
+
+- Check if you are logged in (automatically jump to the login page if not logged in)
+- Remaining Key detection, if the donation of Key ends, a pop-up will remind you
+- Steam
+  - Join group & leave group
+  - Add & remove wishlists
+- Visit links
+
 ### gleam.io
 
 - Remaining Key detection, if the donation of Key ends, a pop-up will remind you
@@ -114,6 +123,7 @@ The following functions may not be enabled by default, please refer to [Settings
   - Join group & leave group
 - Follow & unfollow Twitter users
 - Retweet & unretweet
+- Join & leave Discord server
 - Visit links
 
 ### prys
