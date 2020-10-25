@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.2
 
+### V3.2.5-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.5)
+
+- Fix the bug that the keyhub failed to recognize the steam add group task
+- Fix the bug that keyhub cannot verify the task
+
 ### V3.2.4-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.4)

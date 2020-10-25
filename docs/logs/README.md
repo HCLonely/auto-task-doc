@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.2
 
+### V3.2.5-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.5)
+
+- 修复 keyhub 识别 steam 加组任务失败的 bug
+- 修复 keyhub 无法验证任务的 bug
+
 ### V3.2.4-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.4)
