@@ -3,6 +3,19 @@ title: 更新日志
 lang: zh-CN
 ---
 
+## V3.3
+
+### V3.3.0-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.0)
+
+- 添加“移除”白名单功能
+- 修复 获取 discord 凭证失败的 bug
+- 修复 退出 discord 服务器失败的 bug
+- 修复 其乐加入 steam 组失败的 bug
+- 优化 discord 凭证获取
+- 修改主页重定向链接
+
 ## V3.2
 
 ### V3.2.5-Pre

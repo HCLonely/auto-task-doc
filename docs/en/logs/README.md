@@ -5,6 +5,19 @@ lang: en-US
 
 > The content of this page is translated through Google translation. If the description is incorrect, please click 'Edit this page on GitHub' at the bottom of the page to help us improve the translation.
 
+## V3.3
+
+### V3.3.0-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.0)
+
+- Add the function of "remove" whitelist
+- Fix the bug that failed to obtain discord auth
+- Fix a bug that failed to exit the discord server
+- Fix the bug that failed to join the steam group on keylol
+- Optimize discord auth acquisition
+- Change the homepage redirect link
+
 ## V3.2
 
 ### V3.2.5-Pre
