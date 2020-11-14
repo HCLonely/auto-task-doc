@@ -146,3 +146,13 @@ The following functions may not be enabled by default, please refer to [Settings
 ### opiumpulses
 
 - Automatically join giveaway
+
+## "Remove" feature whitelist
+
+> The whitelist function of the "remove" has been added since version 3.3.0. When using the "remove" function, the social accounts/channels/groups in the whitelist are not removed.
+
+### Usage
+
+Pull to the bottom of [Settings Page](https://auto-task.hclonely.com/setting.html) to see the whitelist. After checking enable, enter id or name, multiple id or The name is separated by commas (`,`), and no spaces are added.
+
+If you don't know the id or name, you can click the "GetId" button in the lower right corner to get the id or name according to the link.

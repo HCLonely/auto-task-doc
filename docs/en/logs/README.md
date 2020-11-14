@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.1-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+
+- Change question template
+- Fix the bug of changing the language
+
 ### V3.3.0-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.0)

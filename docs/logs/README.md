@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.1-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+
+- 修改问题模板
+- 修复 更换语言报错的 bug
+
 ### V3.3.0-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.0)
