@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.2
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+
+- 修复 giveaway.su 加入 discord 服务器报错的 bug
+
 ### V3.3.1-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)

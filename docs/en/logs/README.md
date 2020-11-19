@@ -7,23 +7,29 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.2
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+
+- Fix the bug that the discord server reported an error on the giveaway.su website.
+
 ### V3.3.1-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
 
-- Change question template
-- Fix the bug of changing the language
+- Change question template.
+- Fix the bug of changing the language.
 
 ### V3.3.0-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.0)
 
-- Add the function of "remove" whitelist
-- Fix the bug that failed to obtain discord auth
-- Fix a bug that failed to exit the discord server
-- Fix the bug that failed to join the steam group on keylol
-- Optimize discord auth acquisition
-- Change the homepage redirect link
+- Add the function of "remove" whitelist.
+- Fix the bug that failed to obtain discord auth.
+- Fix a bug that failed to exit the discord server.
+- Fix the bug that failed to join the steam group on keylol.
+- Optimize discord auth acquisition.
+- Change the homepage redirect link.
 
 ## V3.2
 
@@ -31,15 +37,15 @@ lang: en-US
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.5)
 
-- Fix the bug that the keyhub failed to recognize the steam add group task
-- Fix the bug that keyhub cannot verify the task
+- Fix the bug that the keyhub failed to recognize the steam add group task.
+- Fix the bug that keyhub cannot verify the task.
 
 ### V3.2.4-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.2.4)
 
-- Adds discord task support on gleam
-- Fix the bug of visit link error on gleam
+- Adds discord task support on gleam.
+- Fix the bug of visit link error on gleam.
 
 ### V3.2.3-Pre
 
