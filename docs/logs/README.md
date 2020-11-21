@@ -5,9 +5,16 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.3)
+
+- 注册右键菜单
+- 新增 http 请求重试
+
 ### V3.3.2
 
-[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.2)
 
 - 修复 giveaway.su 加入 discord 服务器报错的 bug
 

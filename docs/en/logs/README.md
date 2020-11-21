@@ -7,9 +7,16 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.3)
+
+- Register right-click menu.
+- Add feature: HTTP request retry.
+
 ### V3.3.2
 
-[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.1)
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.2)
 
 - Fix the bug that the discord server reported an error on the giveaway.su website.
 
