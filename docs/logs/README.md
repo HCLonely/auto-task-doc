@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.4-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.4)
+
+- 修复设置页面报错的 bug
+
 ### V3.3.3-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.3)

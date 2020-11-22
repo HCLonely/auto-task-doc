@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.4-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.4)
+
+- Fixed a bug where the Settings page reported errors.
+
 ### V3.3.3-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.3)
