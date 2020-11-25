@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.5
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.5)
+
+- Fixed a bug on Givekey that didn't do the wish list task
+
 ### V3.3.4-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.4)
