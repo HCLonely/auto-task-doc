@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.6
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.6)
+
+- 修复 bug ([#36](https://github.com/HCLonely/auto-task/issues/36))
+
 ### V3.3.5
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.5)
