@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.7
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.7)
+
+- Fix the bug that gleam failed to join the discord server.
+
 ### V3.3.6
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.6)

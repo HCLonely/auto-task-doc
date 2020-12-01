@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.7
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.7)
+
+- 修复 gleam 加入 discord 服务器失败的 bug
+
 ### V3.3.6
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.6)
