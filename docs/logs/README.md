@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.8
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.8)
+
+- 安全性更新
+
 ### V3.3.7
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.7)
