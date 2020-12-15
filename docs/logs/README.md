@@ -5,6 +5,18 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.10
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.10)
+
+- 修复获取 twitter 用户 id 失败的 bug
+
+### V3.3.9
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.9)
+
+- 修复 gleam.io 处理 twitch 任务失败的 bug
+
 ### V3.3.8
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.8)

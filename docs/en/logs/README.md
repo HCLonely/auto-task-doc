@@ -7,6 +7,18 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.10
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.10)
+
+- Fix the bug that failed to get twitter user id.
+
+### V3.3.9
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.9)
+
+- Fix the bug that failed to process twitch tasks in gleam.io.
+
 ### V3.3.8
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.8)
