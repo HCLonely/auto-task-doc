@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.3
 
+### V3.3.11
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.11)
+
+- 修复获取 youtube apiKey 失败的 bug
+
 ### V3.3.10
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.10)

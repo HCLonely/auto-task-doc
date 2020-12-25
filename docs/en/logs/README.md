@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.3
 
+### V3.3.11
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.11)
+
+- Fix the bug that failed to get youtube apiKey.
+
 ### V3.3.10
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.3.10)
