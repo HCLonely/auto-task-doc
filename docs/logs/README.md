@@ -3,6 +3,14 @@ title: 更新日志
 lang: zh-CN
 ---
 
+## V3.4
+
+### V3.4.0
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.0)
+
+- 添加 freeanywhere 网站支持
+
 ## V3.3
 
 ### V3.3.11

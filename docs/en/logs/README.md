@@ -5,6 +5,14 @@ lang: en-US
 
 > The content of this page is translated through Google translation. If the description is incorrect, please click 'Edit this page on GitHub' at the bottom of the page to help us improve the translation.
 
+## V3.4
+
+### V3.4.0
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.0)
+
+- Add website: freeanywhere.
+
 ## V3.3
 
 ### V3.3.11

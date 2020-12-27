@@ -116,6 +116,19 @@ The following functions may not be enabled by default, please refer to [Settings
   - Add & remove wishlists
 - Visit links
 
+### freeanywhere
+
+- Check if you are logged in (automatically jump to the login page if not logged in)
+- Steam
+  - Join group & leave group
+  - Follow & unfollow curators/developers/publishers
+  - Add & remove wishlists
+  - Follow & unfollow games
+- Join & leave Vk group
+- Repost Vk wall (Cancellation is not supported)
+- Visit links
+- Gain key
+
 ### gleam.io
 
 - Remaining Key detection, if the donation of Key ends, a pop-up will remind you
