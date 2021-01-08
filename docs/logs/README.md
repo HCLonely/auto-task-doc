@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.4
 
+### V3.4.1
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.1)
+
+- keyhub 增加 discord 任务支持
+- keyhub 加入 steam 组任务修复
+
 ### V3.4.0
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.0)

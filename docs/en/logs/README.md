@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.4
 
+### V3.4.1
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.1)
+
+- keyhub adds discord task support.
+- keyhub joined the steam group task repair.
+
 ### V3.4.0
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.0)
