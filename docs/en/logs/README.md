@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.4
 
+### V3.4.2
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.2)
+
+- Fix the bug that the takekey verification task failed.
+- Fix the bug of forwarding vk dynamic task error.
+
 ### V3.4.1
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.1)
