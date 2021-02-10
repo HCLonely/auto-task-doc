@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.4
 
+### V3.4.4-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.4)
+
+- Fix a bug .
+
 ### V3.4.3-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.3)
