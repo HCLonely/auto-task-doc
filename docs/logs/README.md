@@ -5,6 +5,13 @@ lang: zh-CN
 
 ## V3.4
 
+### V3.4.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.3)
+
+- 修复获取不到 discord 凭证的 bug
+- 添加移除任务延迟提醒功能(仅支持 giveaway.su)
+
 ### V3.4.2
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.2)

@@ -7,6 +7,13 @@ lang: en-US
 
 ## V3.4
 
+### V3.4.3-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.3)
+
+- Fix the bug that the discord certificate cannot be obtained.
+- Add the reminder function for removing the task delay (only support giveaway.su).
+
 ### V3.4.2
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.2)
