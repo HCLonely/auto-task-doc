@@ -7,6 +7,20 @@ lang: en-US
 
 ## V3.4
 
+### V3.4.8-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.8)
+
+- Repair key-hub login detection function.
+- Fix the bug that indieDB failed to join the giveaway under Firefox + Violentmonkey environment. ([#39](https://github.com/HCLonely/auto-task/issues/39))
+- Fix bugs.
+
+### V3.4.7-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.7)
+
+- Fix bugs.
+
 ### V3.4.6-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.6)

@@ -5,6 +5,20 @@ lang: zh-CN
 
 ## V3.4
 
+### V3.4.8-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.8)
+
+- 修复 key-hub 登录检测功能
+- 修复 Firefox + Violentmonkey 环境下 indieDB 加入赠 key 失败的 bug ([#39](https://github.com/HCLonely/auto-task/issues/39))
+- 修复 bug
+
+### V3.4.7-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.7)
+
+- 修复 bug
+
 ### V3.4.6-Pre
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.6)
