@@ -5,7 +5,13 @@ lang: zh-CN
 
 ## V3.4
 
-### V3.4.8-Pre
+### V3.4.9-Pre
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.9)
+
+- 修复 bug
+
+### V3.4.8
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.4.8)
 
