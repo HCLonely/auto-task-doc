@@ -3,6 +3,17 @@ title: 更新日志
 lang: zh-CN
 ---
 
+## V3.5
+
+### V3.5.0
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.0)
+
+- givekey 新增 steam 鉴赏家相关功能
+- givekey 新增 discord 相关功能
+- discord 相关功能优化
+- 样式优化
+
 ## V3.4
 
 ### V3.4.9-Pre

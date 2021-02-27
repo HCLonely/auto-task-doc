@@ -5,6 +5,17 @@ lang: en-US
 
 > The content of this page is translated through Google translation. If the description is incorrect, please click 'Edit this page on GitHub' at the bottom of the page to help us improve the translation.
 
+## V3.5
+
+### V3.5.0
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.0)
+
+- givekey adds steam connoisseur related functions.
+- givekey adds discord related functions.
+- Discord related function optimization.
+- Style optimization.
+
 ## V3.4
 
 ### V3.4.9-Pre
