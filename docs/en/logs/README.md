@@ -7,6 +7,12 @@ lang: en-US
 
 ## V3.5
 
+### V3.5.1
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.1)
+
+- Fix the bug of freeanywhere verification task 401.
+
 ### V3.5.0
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.0)

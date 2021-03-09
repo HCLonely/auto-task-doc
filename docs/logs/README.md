@@ -5,6 +5,12 @@ lang: zh-CN
 
 ## V3.5
 
+### V3.5.1
+
+[Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.1)
+
+- 修复 freeanywhere 验证任务 401 的 bug
+
 ### V3.5.0
 
 [Release](https://github.com/HCLonely/auto-task/releases/tag/3.5.0)
